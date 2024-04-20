@@ -1,0 +1,22 @@
+                                  heading section
+
+1. "When you open the index.html, you will see a bouncing logo in the heading section."
+2."On the side, you will see a heading 'Welcome to my blog'."
+                                   navigation bar
+
+1."When you hover over the links in the navigation bar, you will see the effects."
+2."When you hover over the 'Blog' link, you will see a dropdown menu where you can click to go to its links."
+
+                                     blog section
+
+1."Below the navigation bar, you will see 3 blog boxes where you will see an effect on hovering the mouse."
+2."You can click on the 'Read more' link in the blog box to go to the related link."
+
+                                    about section
+
+                                   contact section
+
+                                    footer section
+
+"In the footer section, you will see quick links and social media links where you will see an effect on hovering the mouse."
+
